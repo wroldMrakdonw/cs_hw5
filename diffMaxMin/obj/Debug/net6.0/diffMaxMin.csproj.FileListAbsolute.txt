@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\bin\Debug\net6.0\diffMaxMin.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\bin\Debug\net6.0\diffMaxMin.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\bin\Debug\net6.0\diffMaxMin.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\bin\Debug\net6.0\diffMaxMin.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\bin\Debug\net6.0\diffMaxMin.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\refint\diffMaxMin.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\diffMaxMin.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\diffMaxMin\obj\Debug\net6.0\ref\diffMaxMin.dll

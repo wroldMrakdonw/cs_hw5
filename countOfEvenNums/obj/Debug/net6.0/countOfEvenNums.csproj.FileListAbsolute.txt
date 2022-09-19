@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\bin\Debug\net6.0\countOfEvenNums.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\bin\Debug\net6.0\countOfEvenNums.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\bin\Debug\net6.0\countOfEvenNums.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\bin\Debug\net6.0\countOfEvenNums.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\bin\Debug\net6.0\countOfEvenNums.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\refint\countOfEvenNums.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\countOfEvenNums.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\countOfEvenNums\obj\Debug\net6.0\ref\countOfEvenNums.dll

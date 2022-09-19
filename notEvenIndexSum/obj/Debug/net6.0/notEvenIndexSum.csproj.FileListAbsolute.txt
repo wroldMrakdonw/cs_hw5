@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\bin\Debug\net6.0\notEvenIndexSum.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\bin\Debug\net6.0\notEvenIndexSum.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\bin\Debug\net6.0\notEvenIndexSum.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\bin\Debug\net6.0\notEvenIndexSum.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\bin\Debug\net6.0\notEvenIndexSum.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\refint\notEvenIndexSum.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\notEvenIndexSum.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_5\hw\notEvenIndexSum\obj\Debug\net6.0\ref\notEvenIndexSum.dll
